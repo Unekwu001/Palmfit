@@ -91,3 +91,22 @@ Delete class of food
 As a platform administrator or authorised user with appropriate permissions, I want an API that allows me to delete a food class and its associated food items, So that I can keep the food classification system up-to-date and remove obsolete or irrelevant categories.
 
 
+OTHER ACTIVITIES/EVENTS
+---------------------
+---------------------
+
+Role Management
+----------------
+As a platform administrator or developer,
+I want a flexible and easy-to-use Roles Management API,
+So that I can define, assign, and manage user roles and permissions effectively within the system.
+
+Calculate Calories
+-----------------------
+As a user who wants to maintain a healthy diet and track my calorie intake,
+I want an API that can accurately calculate the number of calories in various foods and meals,
+So that I can make informed dietary choices and monitor my daily caloric consumption.
+
+Retrieve daily/weekly meal plan
+----------------------------------
+As a health-conscious user, I want access to an API that can provide me with personalized daily and weekly meal plans, so that I can easily follow a balanced and nutritious diet according to my preferences and dietary requirements.
