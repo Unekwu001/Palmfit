@@ -81,8 +81,10 @@ Potential Risks
 -
 Strict compliance regulations 
 
-Requirements & User Stories
 
+Requirements & User Stories
+-
+-
 Requirement Number:
 User Story:
 Priority Level:
